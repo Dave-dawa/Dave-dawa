@@ -25,7 +25,7 @@
 
 ## Let's connect and engage ☕
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/WySK0nQiJKLy25HLhp/giphy.gif" width="200"/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawit-aklilu)
